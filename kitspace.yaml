@@ -1,0 +1,5 @@
+summary: An ESP32-based IoT air quality monitor designed using JITx
+eda:
+  type: kicad
+  pcb: hardware/ble-mote/kicad/ble-mote.kicad_pcb
+bom: hardware/ble-mote/kicad/ble-mote.kicad_pcb
